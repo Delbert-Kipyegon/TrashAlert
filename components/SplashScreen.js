@@ -21,7 +21,7 @@ const SplashScreen = ({ navigation }) => {
 				color="#fff"
 				style={styles.icon}
 			/>
-			<Text style={styles.text}>Trash Reminder App</Text>
+			<Text style={styles.text}>Trash Alert!</Text>
 			<ActivityIndicator
 				size="large"
 				color="#fff"
